@@ -1,4 +1,4 @@
- 1. PCA-based facial recognition algorithm 
+ 1. Facial recognition algorithm 
  2. Audio compression
  3. image deblurring
  4. imgae inpainting
