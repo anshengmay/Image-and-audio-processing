@@ -1,3 +1,8 @@
+ 1. PCA-based facial recognition algorithm 
+ 2. Audio compression
+ 3. image deblurring
+ 4. imgae inpainting
+
 <!--
 ## 1: [Eigenfaces](https://github.com/Pichumaydam/Image-and-audio-processing/blob/main/Eigenfaces.ipynb)
 ### Explore a PCA-based facial recognition algorithm that is known as EigenFaces. 
@@ -11,9 +16,4 @@ We used the [yale face](http://www.cad.zju.edu.cn/home/dengcai/Data/YaleB/YaleB_
 
 
  -->
- 
- * PCA-based facial recognition algorithm 
- * Audio compression
- * image deblurring
- * imgae inpainting
  
