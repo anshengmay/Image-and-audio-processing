@@ -1,7 +1,7 @@
  1. Facial recognition algorithm 
  2. Audio compression
- 3. image deblurring
- 4. image inpainting
+ 3. Image deblurring
+ 4. Image inpainting
 
 <!--
 ## 1: [Eigenfaces](https://github.com/Pichumaydam/Image-and-audio-processing/blob/main/Eigenfaces.ipynb)
